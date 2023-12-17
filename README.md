@@ -25,12 +25,11 @@ npm i
 
 ### View the app (Hosted on Netlify):
 
-https://masud-todo-app.netlify.app/
+https://afaqali112.netlify.app/
 
 ### Necessary Links:
 
 1. API Endpoint: https://capricious-ash-stomach.glitch.me/tasks
-2. API GitHub: https://github.com/masudranashawon/todo-app-server
 
 ### Tools:
 
